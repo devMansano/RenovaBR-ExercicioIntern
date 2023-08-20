@@ -3,8 +3,8 @@ import pandas as pd
 from tabulate import tabulate
 
 # Definindo os caminhos para os arquivos CSV
-caminho_perfil_eleitorado = r'C:\Users\Merop\Documentos\Desenvolvimento\RenovaBR\Database\database_desfio_renovaBR\eleitorado\perfil_eleitorado_2020\perfil_eleitorado_2020.csv'
-caminho_sp_turno = r'C:\Users\Merop\Documentos\Desenvolvimento\RenovaBR\Database\database_desfio_renovaBR\resultados\SP_turno_1.csv'
+caminho_perfil_eleitorado = r'Coloque o Caminho do Banco de Dados Eleitorado'
+caminho_sp_turno = r'Coloque o caminho do Banco de dados sp_turno'
 
 # Colunas desnecessárias para serem removidas
 colunas_nao_necessarias_perfil = [
